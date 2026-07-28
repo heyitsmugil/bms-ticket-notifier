@@ -70,7 +70,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "2"
+      "status": "1"
     },
     "BWCB|50607|20260801|LOUNGER": {
       "venue": "Broadway Cinemas: Coimbatore",
@@ -82,7 +82,6 @@
     }
   },
   "dates": {
-    "20260728": "AVAILABLE",
     "20260729": "AVAILABLE",
     "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
